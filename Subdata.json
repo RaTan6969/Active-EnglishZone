@@ -1,7 +1,182 @@
 [
-    {"name": "sub raran"},
-    {"name": "sub raran"},
-    {"name": "sub raran"},
-    {"name": "sub raran"},
-    {"name": "sub raran"}
+    {
+        "Phrase_Part_ID": "Part1",
+        "Phrase": [
+            {
+                "Phrase_Part_ID": 1,
+                "Phrase_ID": 1,
+                "Phrase_Title": "This is Phrase Title 1",
+                "Phrase_Description": "This is Phrase Bangla title 1",
+                "Positive_Phrase_Example": [
+                    {
+                        "Positive_Sentence_Example_Number": 1,
+                        "Positive_Sentence_English_Title": "This Is Englis Demo Example Positive_Phrase_Example",
+                        "Positive_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Negative_Phrases_Example": [
+                    {
+                        "Negative_Sentence_Example_Number": 1,
+                        "Negative_Sentence_English_Title": "This Is Englis Demo Example Negative_Phrase_Example",
+                        "Negative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Imperative_Phrase_Example": [
+                    {
+                        "Imperative_Sentence_Example_Number": 1,
+                        "Imperative_Sentence_English_Title": "This Is Englis Demo Example Imperative_Phrase_Example",
+                        "Imperative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Interrogative_Phrase_Example": [
+                    {
+                        "Interrogative_Sentence_Example_Number": 1,
+                        "Interrogative_Sentence_English_Title": "This Is Englis Demo Example Interrogative_Phrase_Example",
+                        "Interrogative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Optative_Phrase_Example": [
+                    {
+                        "Optative_Sentence_Example_Number": 1,
+                        "Optative_Sentence_English_Title": "This Is Englis Demo Example Optative_Phrase_Example",
+                        "Optative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Exclamatory_Phrase_Example": [
+                    {
+                        "Exclamatory_Sentence_Example_Number": 1,
+                        "Exclamatory_Sentence_English_Title": "This Is Englis Demo Example Exclamatory_Phrase_Example",
+                        "Exclamatory_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Phrase_Translation": [
+                    {
+                        "Sentence_Translation_Word_ID": 1,
+                        "English_Word": "English_Word",
+                        "Bangla_Meaning": "Bangla_Meaning"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Phrase_Part_ID": "Part2",
+        "Phrase": [
+            {
+                "Phrase_Part_ID": 2,
+                "Phrase_ID": 51,
+                "Phrase_Title": "This is Phrase Title 51",
+                "Phrase_Description": "This is Phrase Bangla title 1",
+                "Positive_Phrase_Example": [
+                    {
+                        "Positive_Sentence_Example_Number": 1,
+                        "Positive_Sentence_English_Title": "This2 Is Englis Demo Example Positive_Phrase_Example",
+                        "Positive_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Negative_Phrases_Example": [
+                    {
+                        "Negative_Sentence_Example_Number": 1,
+                        "Negative_Sentence_English_Title": "This Is Englis Demo Example Negative_Phrase_Example",
+                        "Negative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Imperative_Phrase_Example": [
+                    {
+                        "Imperative_Sentence_Example_Number": 1,
+                        "Imperative_Sentence_English_Title": "This Is Englis Demo Example Imperative_Phrase_Example",
+                        "Imperative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Interrogative_Phrase_Example": [
+                    {
+                        "Interrogative_Sentence_Example_Number": 1,
+                        "Interrogative_Sentence_English_Title": "This Is Englis Demo Example Interrogative_Phrase_Example",
+                        "Interrogative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Optative_Phrase_Example": [
+                    {
+                        "Optative_Sentence_Example_Number": 1,
+                        "Optative_Sentence_English_Title": "This Is Englis Demo Example Optative_Phrase_Example",
+                        "Optative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Exclamatory_Phrase_Example": [
+                    {
+                        "Exclamatory_Sentence_Example_Number": 1,
+                        "Exclamatory_Sentence_English_Title": "This Is Englis Demo Example Exclamatory_Phrase_Example",
+                        "Exclamatory_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Phrase_Translation": [
+                    {
+                        "Sentence_Translation_Word_ID": 1,
+                        "English_Word": "English_Word",
+                        "Bangla_Meaning": "Bangla_Meaning"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Phrase_Part_ID": "Part3",
+        "Phrase": [
+            {
+                "Phrase_Part_ID": 3,
+                "Phrase_ID": 101,
+                "Phrase_Title": "This is Phrase Title 101",
+                "Phrase_Description": "This is Phrase Bangla title 1",
+                "Positive_Phrase_Example": [
+                    {
+                        "Positive_Sentence_Example_Number": 1,
+                        "Positive_Sentence_English_Title": "This2 Is Englis Demo Example Positive_Phrase_Example",
+                        "Positive_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Negative_Phrases_Example": [
+                    {
+                        "Negative_Sentence_Example_Number": 1,
+                        "Negative_Sentence_English_Title": "This Is Englis Demo Example Negative_Phrase_Example",
+                        "Negative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Imperative_Phrase_Example": [
+                    {
+                        "Imperative_Sentence_Example_Number": 1,
+                        "Imperative_Sentence_English_Title": "This Is Englis Demo Example Imperative_Phrase_Example",
+                        "Imperative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Interrogative_Phrase_Example": [
+                    {
+                        "Interrogative_Sentence_Example_Number": 1,
+                        "Interrogative_Sentence_English_Title": "This Is Englis Demo Example Interrogative_Phrase_Example",
+                        "Interrogative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Optative_Phrase_Example": [
+                    {
+                        "Optative_Sentence_Example_Number": 1,
+                        "Optative_Sentence_English_Title": "This Is Englis Demo Example Optative_Phrase_Example",
+                        "Optative_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Exclamatory_Phrase_Example": [
+                    {
+                        "Exclamatory_Sentence_Example_Number": 1,
+                        "Exclamatory_Sentence_English_Title": "This Is Englis Demo Example Exclamatory_Phrase_Example",
+                        "Exclamatory_Sentence_Bangla_Title": "এটি বাংলা ডেমো উদাহরণ"
+                    }
+                ],
+                "Phrase_Translation": [
+                    {
+                        "Sentence_Translation_Word_ID": 1,
+                        "English_Word": "English_Word",
+                        "Bangla_Meaning": "Bangla_Meaning"
+                    }
+                ]
+            }
+        ]
+    }
 ]
